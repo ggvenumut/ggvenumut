@@ -1,10 +1,8 @@
 ##  Merhabalar 🙋‍♂️ Arka uç geliştiricisiyim 👓
 
-- 🔭 Arka uç projeleri yazarak kendimi geliştiriyorum
-- 👯 Javascript'in derin dünyasında nodejs frameworkleri ögreniyorum
-- 🤔 Arka uç kısmında kendimi dahada ileriye götürmeyi hedefliyorum
-- ⚡ Yazılım dünyasındaki geleceğim noktayı düşünmek beni mutlu ediyor
-- 🧐 Ayrıca hipnoz manipüle ve nlp konuları beni meraklandırıyor
+- 🔭 Ön uç  projeleri yazarak kendimi geliştiriyorum
+
+
 
 ### 📩 Benimle iletişime geçin:
 

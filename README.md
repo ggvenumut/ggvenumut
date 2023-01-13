@@ -1,4 +1,4 @@
-##  Merhabalar 🙋‍♂️ Arka uç geliştiricisiyim 👓
+##  Merhabalar 🙋‍♂️ On uç geliştiricisiyim 👓
 
 - 🔭 Ön uç  projeleri yazarak kendimi geliştiriyorum
 
